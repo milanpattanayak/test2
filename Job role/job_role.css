@@ -1,0 +1,53 @@
+body {
+  background-color: #dde4ec;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 48%;
+  margin: 20px;
+  height: 100%;
+}
+.container {
+  /* padding: 2px 16px; */
+  margin: 30px;
+  text-align: center;
+}
+.flexDisplay {
+  display: flex;
+}
+.card-content {
+  display: flex;
+  margin: 15px;
+}
+.card-content-head {
+  width: 65%;
+}
+.card-content-value {
+  width: 35%;
+}
+.Modify {
+  margin: 0 25%;
+  width: 50%;
+  margin-top: 40px;
+  background-color: #dde4ec;
+}
+.Modify p {
+  padding: 10px 20px;
+}
+.update {
+  background-color: #212029;
+  color: #747378;
+  height: 30px;
+  margin: 20px;
+  padding: 0px 15px;
+}
+.end {
+  border-bottom: 1px solid #dde4ec;
+}
+.adjust-margin {
+  margin-top: 15%;
+  margin-left: 50px;
+}
